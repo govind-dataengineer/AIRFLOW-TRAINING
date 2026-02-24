@@ -1,0 +1,74 @@
+[2026-02-24T07:48:22.366+0000] {processor.py:161} INFO - Started process (PID=94462) to work on /opt/airflow/dags/02_beginner_sequential_tasks.py
+[2026-02-24T07:48:22.377+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/02_beginner_sequential_tasks.py for tasks to queue
+[2026-02-24T07:48:22.394+0000] {logging_mixin.py:188} INFO - [2026-02-24T07:48:22.393+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/02_beginner_sequential_tasks.py
+[2026-02-24T07:48:22.554+0000] {processor.py:840} INFO - DAG(s) '02_beginner_sequential_tasks' retrieved from /opt/airflow/dags/02_beginner_sequential_tasks.py
+[2026-02-24T07:48:23.230+0000] {logging_mixin.py:188} INFO - [2026-02-24T07:48:23.221+0000] {override.py:1829} INFO - Created Permission View: can edit on DAG:02_beginner_sequential_tasks
+[2026-02-24T07:48:23.264+0000] {logging_mixin.py:188} INFO - [2026-02-24T07:48:23.263+0000] {override.py:1829} INFO - Created Permission View: can delete on DAG:02_beginner_sequential_tasks
+[2026-02-24T07:48:23.281+0000] {logging_mixin.py:188} INFO - [2026-02-24T07:48:23.280+0000] {override.py:1829} INFO - Created Permission View: can read on DAG:02_beginner_sequential_tasks
+[2026-02-24T07:48:23.283+0000] {logging_mixin.py:188} INFO - [2026-02-24T07:48:23.283+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-02-24T07:48:23.325+0000] {logging_mixin.py:188} INFO - [2026-02-24T07:48:23.324+0000] {dag.py:3118} INFO - Creating ORM DAG for 02_beginner_sequential_tasks
+[2026-02-24T07:48:23.383+0000] {logging_mixin.py:188} INFO - [2026-02-24T07:48:23.381+0000] {dag.py:3954} INFO - Setting next_dagrun for 02_beginner_sequential_tasks to 2026-02-23 00:00:00+00:00, run_after=2026-02-24 00:00:00+00:00
+[2026-02-24T07:48:23.481+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/02_beginner_sequential_tasks.py took 1.149 seconds
+[2026-02-24T07:48:53.639+0000] {processor.py:161} INFO - Started process (PID=94524) to work on /opt/airflow/dags/02_beginner_sequential_tasks.py
+[2026-02-24T07:48:53.646+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/02_beginner_sequential_tasks.py for tasks to queue
+[2026-02-24T07:48:53.652+0000] {logging_mixin.py:188} INFO - [2026-02-24T07:48:53.651+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/02_beginner_sequential_tasks.py
+[2026-02-24T07:48:53.678+0000] {processor.py:840} INFO - DAG(s) '02_beginner_sequential_tasks' retrieved from /opt/airflow/dags/02_beginner_sequential_tasks.py
+[2026-02-24T07:48:53.711+0000] {logging_mixin.py:188} INFO - [2026-02-24T07:48:53.711+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-02-24T07:48:53.730+0000] {logging_mixin.py:188} INFO - [2026-02-24T07:48:53.730+0000] {dag.py:3954} INFO - Setting next_dagrun for 02_beginner_sequential_tasks to 2026-02-23 00:00:00+00:00, run_after=2026-02-24 00:00:00+00:00
+[2026-02-24T07:48:53.748+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/02_beginner_sequential_tasks.py took 0.126 seconds
+[2026-02-24T07:49:05.581+0000] {processor.py:161} INFO - Started process (PID=94539) to work on /opt/airflow/dags/02_beginner_sequential_tasks.py
+[2026-02-24T07:49:05.582+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/02_beginner_sequential_tasks.py for tasks to queue
+[2026-02-24T07:49:05.585+0000] {logging_mixin.py:188} INFO - [2026-02-24T07:49:05.585+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/02_beginner_sequential_tasks.py
+[2026-02-24T07:49:05.606+0000] {processor.py:840} INFO - DAG(s) '02_beginner_sequential_tasks' retrieved from /opt/airflow/dags/02_beginner_sequential_tasks.py
+[2026-02-24T07:49:05.633+0000] {logging_mixin.py:188} INFO - [2026-02-24T07:49:05.633+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-02-24T07:49:05.654+0000] {logging_mixin.py:188} INFO - [2026-02-24T07:49:05.654+0000] {dag.py:3954} INFO - Setting next_dagrun for 02_beginner_sequential_tasks to 2026-02-23 00:00:00+00:00, run_after=2026-02-24 00:00:00+00:00
+[2026-02-24T07:49:05.669+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/02_beginner_sequential_tasks.py took 0.095 seconds
+[2026-02-24T07:49:35.967+0000] {processor.py:161} INFO - Started process (PID=94599) to work on /opt/airflow/dags/02_beginner_sequential_tasks.py
+[2026-02-24T07:49:35.969+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/02_beginner_sequential_tasks.py for tasks to queue
+[2026-02-24T07:49:35.971+0000] {logging_mixin.py:188} INFO - [2026-02-24T07:49:35.971+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/02_beginner_sequential_tasks.py
+[2026-02-24T07:49:35.984+0000] {processor.py:840} INFO - DAG(s) '02_beginner_sequential_tasks' retrieved from /opt/airflow/dags/02_beginner_sequential_tasks.py
+[2026-02-24T07:49:36.005+0000] {logging_mixin.py:188} INFO - [2026-02-24T07:49:36.005+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-02-24T07:49:36.022+0000] {logging_mixin.py:188} INFO - [2026-02-24T07:49:36.022+0000] {dag.py:3954} INFO - Setting next_dagrun for 02_beginner_sequential_tasks to 2026-02-23 00:00:00+00:00, run_after=2026-02-24 00:00:00+00:00
+[2026-02-24T07:49:36.033+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/02_beginner_sequential_tasks.py took 0.072 seconds
+[2026-02-24T07:50:06.293+0000] {processor.py:161} INFO - Started process (PID=94661) to work on /opt/airflow/dags/02_beginner_sequential_tasks.py
+[2026-02-24T07:50:06.296+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/02_beginner_sequential_tasks.py for tasks to queue
+[2026-02-24T07:50:06.302+0000] {logging_mixin.py:188} INFO - [2026-02-24T07:50:06.301+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/02_beginner_sequential_tasks.py
+[2026-02-24T07:50:06.316+0000] {processor.py:840} INFO - DAG(s) '02_beginner_sequential_tasks' retrieved from /opt/airflow/dags/02_beginner_sequential_tasks.py
+[2026-02-24T07:50:06.354+0000] {logging_mixin.py:188} INFO - [2026-02-24T07:50:06.354+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-02-24T07:50:06.389+0000] {logging_mixin.py:188} INFO - [2026-02-24T07:50:06.389+0000] {dag.py:3954} INFO - Setting next_dagrun for 02_beginner_sequential_tasks to 2026-02-23 00:00:00+00:00, run_after=2026-02-24 00:00:00+00:00
+[2026-02-24T07:50:06.434+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/02_beginner_sequential_tasks.py took 0.172 seconds
+[2026-02-24T07:50:36.692+0000] {processor.py:161} INFO - Started process (PID=94723) to work on /opt/airflow/dags/02_beginner_sequential_tasks.py
+[2026-02-24T07:50:36.696+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/02_beginner_sequential_tasks.py for tasks to queue
+[2026-02-24T07:50:36.700+0000] {logging_mixin.py:188} INFO - [2026-02-24T07:50:36.699+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/02_beginner_sequential_tasks.py
+[2026-02-24T07:50:36.714+0000] {processor.py:840} INFO - DAG(s) '02_beginner_sequential_tasks' retrieved from /opt/airflow/dags/02_beginner_sequential_tasks.py
+[2026-02-24T07:50:36.734+0000] {logging_mixin.py:188} INFO - [2026-02-24T07:50:36.734+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-02-24T07:50:36.763+0000] {logging_mixin.py:188} INFO - [2026-02-24T07:50:36.762+0000] {dag.py:3954} INFO - Setting next_dagrun for 02_beginner_sequential_tasks to 2026-02-23 00:00:00+00:00, run_after=2026-02-24 00:00:00+00:00
+[2026-02-24T07:50:36.800+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/02_beginner_sequential_tasks.py took 0.114 seconds
+[2026-02-24T07:51:07.392+0000] {processor.py:161} INFO - Started process (PID=94785) to work on /opt/airflow/dags/02_beginner_sequential_tasks.py
+[2026-02-24T07:51:07.394+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/02_beginner_sequential_tasks.py for tasks to queue
+[2026-02-24T07:51:07.399+0000] {logging_mixin.py:188} INFO - [2026-02-24T07:51:07.398+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/02_beginner_sequential_tasks.py
+[2026-02-24T07:51:07.420+0000] {processor.py:840} INFO - DAG(s) '02_beginner_sequential_tasks' retrieved from /opt/airflow/dags/02_beginner_sequential_tasks.py
+[2026-02-24T07:51:07.515+0000] {logging_mixin.py:188} INFO - [2026-02-24T07:51:07.514+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-02-24T07:51:07.565+0000] {logging_mixin.py:188} INFO - [2026-02-24T07:51:07.565+0000] {dag.py:3954} INFO - Setting next_dagrun for 02_beginner_sequential_tasks to 2026-02-23 00:00:00+00:00, run_after=2026-02-24 00:00:00+00:00
+[2026-02-24T07:51:07.587+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/02_beginner_sequential_tasks.py took 0.214 seconds
+[2026-02-24T07:51:37.914+0000] {processor.py:161} INFO - Started process (PID=94846) to work on /opt/airflow/dags/02_beginner_sequential_tasks.py
+[2026-02-24T07:51:37.916+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/02_beginner_sequential_tasks.py for tasks to queue
+[2026-02-24T07:51:37.919+0000] {logging_mixin.py:188} INFO - [2026-02-24T07:51:37.918+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/02_beginner_sequential_tasks.py
+[2026-02-24T07:51:37.930+0000] {processor.py:840} INFO - DAG(s) '02_beginner_sequential_tasks' retrieved from /opt/airflow/dags/02_beginner_sequential_tasks.py
+[2026-02-24T07:51:37.953+0000] {logging_mixin.py:188} INFO - [2026-02-24T07:51:37.953+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-02-24T07:51:37.969+0000] {logging_mixin.py:188} INFO - [2026-02-24T07:51:37.969+0000] {dag.py:3954} INFO - Setting next_dagrun for 02_beginner_sequential_tasks to 2026-02-23 00:00:00+00:00, run_after=2026-02-24 00:00:00+00:00
+[2026-02-24T07:51:37.986+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/02_beginner_sequential_tasks.py took 0.078 seconds
+[2026-02-24T07:52:08.171+0000] {processor.py:161} INFO - Started process (PID=94907) to work on /opt/airflow/dags/02_beginner_sequential_tasks.py
+[2026-02-24T07:52:08.173+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/02_beginner_sequential_tasks.py for tasks to queue
+[2026-02-24T07:52:08.173+0000] {logging_mixin.py:188} INFO - [2026-02-24T07:52:08.173+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/02_beginner_sequential_tasks.py
+[2026-02-24T07:52:08.184+0000] {processor.py:840} INFO - DAG(s) '02_beginner_sequential_tasks' retrieved from /opt/airflow/dags/02_beginner_sequential_tasks.py
+[2026-02-24T07:52:08.204+0000] {logging_mixin.py:188} INFO - [2026-02-24T07:52:08.204+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-02-24T07:52:08.226+0000] {logging_mixin.py:188} INFO - [2026-02-24T07:52:08.226+0000] {dag.py:3954} INFO - Setting next_dagrun for 02_beginner_sequential_tasks to 2026-02-23 00:00:00+00:00, run_after=2026-02-24 00:00:00+00:00
+[2026-02-24T07:52:08.250+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/02_beginner_sequential_tasks.py took 0.085 seconds
+[2026-02-24T07:52:39.242+0000] {processor.py:161} INFO - Started process (PID=94968) to work on /opt/airflow/dags/02_beginner_sequential_tasks.py
+[2026-02-24T07:52:39.244+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/02_beginner_sequential_tasks.py for tasks to queue
+[2026-02-24T07:52:39.245+0000] {logging_mixin.py:188} INFO - [2026-02-24T07:52:39.244+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/02_beginner_sequential_tasks.py
+[2026-02-24T07:52:39.255+0000] {processor.py:840} INFO - DAG(s) '02_beginner_sequential_tasks' retrieved from /opt/airflow/dags/02_beginner_sequential_tasks.py
+[2026-02-24T07:52:39.277+0000] {logging_mixin.py:188} INFO - [2026-02-24T07:52:39.277+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-02-24T07:52:39.293+0000] {logging_mixin.py:188} INFO - [2026-02-24T07:52:39.293+0000] {dag.py:3954} INFO - Setting next_dagrun for 02_beginner_sequential_tasks to 2026-02-23 00:00:00+00:00, run_after=2026-02-24 00:00:00+00:00
+[2026-02-24T07:52:39.302+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/02_beginner_sequential_tasks.py took 0.069 seconds
